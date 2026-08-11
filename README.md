@@ -33,9 +33,9 @@ resources/
 ## Current Progress
 
 * [x] CLIP Study
-* [ ] I-JEPA Study
-* [ ] Coding Assignments
-* [ ] Experimental Work
+* [x] I-JEPA Study
+* [x] Coding Assignments
+* [x] Experimental Work
 
 ## Goal
 
